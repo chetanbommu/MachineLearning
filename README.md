@@ -5,8 +5,8 @@ Machine Learning Notes and Code for Algorithms
 
 1. Supervised Learning 
     1. Linear Regression
-    + a. Multi-Linear Regression
-    + b. Polynomial Regression
+        + a. Multi-Linear Regression
+        + b. Polynomial Regression
 2. Unsupervised Learning
   i. Logistic Regression
  ii. Clustering
