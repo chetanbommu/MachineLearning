@@ -8,7 +8,7 @@ Machine Learning Notes and Code for Algorithms
         + a. Multi-Linear Regression
         + b. Polynomial Regression
 2. **Unsupervised Learning**
-    1. **Logistic Regression**
+    1. [**Logistic Regression**](https://github.com/chetanbommu/MachineLearning/tree/master/2.%20Unsupervised%20Learning/1.%20LogisticRegression)
     2. **Clustering**
         + a. K-Means Clustering
         + b. Hierarchical Clustering
