@@ -4,9 +4,9 @@ Machine Learning Notes and Code for Algorithms
 #### NOTE : For best viewing of code, fork/clone and open in R-studio
 
 1. Supervised Learning 
-..i. Linear Regression
-  ..a. Multi-Linear Regression
-  ..b. Polynomial Regression
+  1. Linear Regression
+      a. Multi-Linear Regression
+      b. Polynomial Regression
 2. Unsupervised Learning
   i. Logistic Regression
  ii. Clustering
