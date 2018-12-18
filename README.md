@@ -6,8 +6,8 @@ Machine Learning Notes and Code for Algorithms
 1. **Supervised Learning**
     1. **Regression**
         1. **Linear Regression**
-            + a. Multi-Linear Regression
-            + b. Polynomial Regression
+            + i. Multi-Linear Regression
+            + ii. Polynomial Regression
     2. **Classification**
         1. [**Logistic Regression**](https://github.com/chetanbommu/MachineLearning/tree/master/1.%20Supervised%20Learning/2.%20Classification/1.%20LogisticRegression)
         2. [**Decision Trees**](https://github.com/chetanbommu/MachineLearning/tree/master/1.%20Supervised%20Learning/2.%20Classification/2.%20Decision%20Tree)
