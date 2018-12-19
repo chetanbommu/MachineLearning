@@ -42,3 +42,10 @@ text(classifier)
 ## Predicting the test set results
 predicted_set = predict(classifier, newdata = test_set) ## gives probablities of 0 & 1
 predicted_set = predict(classifier, newdata = test_set, type = 'class') ## gives class-type
+
+information_gain = function(x1,x2,a1,a2,b1,b2){
+  hb = -((x1/x1+x2) * log2(x1/x1+x2) + (x2/x1+x2) * log2(x2/x1+x2))
+  hal = -((a1/a1+a2) * log2(a1/a1+a2) + (a2/a1+a2) * log2(a2/a1+a2))
+  har = -((b1/b1+b2) * log2(b1/b1+b2) + (b2/b1+b2) * log2(b2/b1+b2))
+  return(hb - (((a1+a2)/(a1+a2+b1+b2) * hal) + ((b1+b2)/(a1+a2+b1+b2) * har)))
+}
